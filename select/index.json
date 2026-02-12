@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "VISIONS",
+  "base_artist": "VESPERBELL",
+  "createdAt": "2026-02-12T07:45:27.006787Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Science/Visions",
+      "artist": "CHVRCHES",
+      "has_synced": true,
+      "path": "select/01_Science_Visions_CHVRCHES.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Science\u0000Visions",
+      "artist": "CHVRCHES",
+      "has_synced": true,
+      "path": "select/02_Science\u0000Visions_CHVRCHES.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Visions chaotiques",
+      "artist": "Sniper",
+      "has_synced": false,
+      "path": "select/03_Visions_chaotiques_Sniper.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Water Colored Visions",
+      "artist": "Lemonade",
+      "has_synced": false,
+      "path": "select/04_Water_Colored_Visions_Lemonade.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "visions",
+      "artist": "blackwinterwells feat. d0llywood1",
+      "has_synced": true,
+      "path": "select/05_visions_blackwinterwells_feat._d0llywood1.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Visions (feat. dolly)",
+      "artist": "blackwinterwells",
+      "has_synced": true,
+      "path": "select/06_Visions_(feat._dolly)_blackwinterwells.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Visions (Outro)",
+      "artist": "Yung Lean",
+      "has_synced": true,
+      "path": "select/07_Visions_(Outro)_Yung_Lean.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dancing Anymore (Visions Remix)",
+      "artist": "Is Tropical",
+      "has_synced": false,
+      "path": "select/08_Dancing_Anymore_(Visions_Remix)_Is_Tropical.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Visions - Single Edit",
+      "artist": "Hooverphonic",
+      "has_synced": false,
+      "path": "select/09_Visions_-_Single_Edit_Hooverphonic.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Crystal Visions",
+      "artist": "The Big Pink",
+      "has_synced": true,
+      "path": "select/10_Crystal_Visions_The_Big_Pink.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Visions",
+      "artist": "Pendulum",
+      "has_synced": false,
+      "path": "select/11_Visions_Pendulum.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Visions of Johanna",
+      "artist": "Bob Dylan",
+      "has_synced": true,
+      "path": "select/12_Visions_of_Johanna_Bob_Dylan.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Planet of Visions",
+      "artist": "Kraftwerk",
+      "has_synced": false,
+      "path": "select/13_Planet_of_Visions_Kraftwerk.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Planet Of Visions (Headphone Surround 3-D Mix)",
+      "artist": "Kraftwerk",
+      "has_synced": true,
+      "path": "select/14_Planet_Of_Visions_(Headphone_Surround_3-D_Mix)_Kraftwerk.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Planet of Visions (Live)",
+      "artist": "Kraftwerk",
+      "has_synced": true,
+      "path": "select/15_Planet_of_Visions_(Live)_Kraftwerk.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "VISIONS",
+      "artist": "VESPERBELL",
+      "has_synced": false,
+      "path": "select/pl_01_VISIONS_VESPERBELL.txt"
+    }
+  ]
+}
